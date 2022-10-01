@@ -1,0 +1,29 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+
+MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---1
+ 
+CompositeProduct{menuItems=[MenuItem{title='Baked Shrimp Toasts ', rating=3.75, calories=45, protein=3, fat=1, sodium=140, price=70}---0
+, MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---0
+, MenuItem{title='Beef Stock ', rating=4.375, calories=24, protein=4, fat=1, sodium=87, price=26}---0
+, MenuItem{title='Country Ham and Cheddar Pretzel Bites with Jalapeño Mustard ', rating=4.375, calories=46, protein=1, fat=1, sodium=342, price=100}---0
+]} 
+
+MenuItem{title='Fish', rating=3.0, calories=25, protein=4, fat=1, sodium=124, price=27}---1
+ 
+CompositeProduct{menuItems=[MenuItem{title='Lemon-Almond Tuiles ', rating=3.75, calories=44, protein=0, fat=3, sodium=36, price=29}---0
+, MenuItem{title='Arugula Salad ', rating=3.75, calories=46, protein=1, fat=5, sodium=6, price=28}---0
+, MenuItem{title='Stilton Walnut Tarts ', rating=3.75, calories=44, protein=2, fat=4, sodium=82, price=44}---0
+, MenuItem{title='Rye Crispbread Crackers with Pepper-Dill Crème Fraîche and Smoked Salmon ', rating=5.0, calories=62, protein=2, fat=1, sodium=173, price=28}---0
+]} 
+
+
+CompositeProduct{menuItems=[MenuItem{title='Lemon-Almond Tuiles ', rating=3.75, calories=44, protein=0, fat=3, sodium=36, price=29}---0
+, MenuItem{title='Arugula Salad ', rating=3.75, calories=46, protein=1, fat=5, sodium=6, price=28}---0
+, MenuItem{title='Stilton Walnut Tarts ', rating=3.75, calories=44, protein=2, fat=4, sodium=82, price=44}---0
+, MenuItem{title='Rye Crispbread Crackers with Pepper-Dill Crème Fraîche and Smoked Salmon ', rating=5.0, calories=62, protein=2, fat=1, sodium=173, price=28}---0
+]} 
+
+Price: 129 lei;
+____________________________________________________________________________________________

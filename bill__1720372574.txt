@@ -1,0 +1,14 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+
+CompositeProduct{menuItems=[MenuItem{title='Lemon-Almond Tuiles ', rating=3.75, calories=44, protein=0, fat=3, sodium=36, price=29}---0
+, MenuItem{title='Arugula Salad ', rating=3.75, calories=46, protein=1, fat=5, sodium=6, price=28}---0
+, MenuItem{title='Stilton Walnut Tarts ', rating=3.75, calories=44, protein=2, fat=4, sodium=82, price=44}---0
+, MenuItem{title='Rye Crispbread Crackers with Pepper-Dill Crème Fraîche and Smoked Salmon ', rating=5.0, calories=62, protein=2, fat=1, sodium=173, price=28}---0
+]} 
+
+
+
+Price: 129 lei;
+____________________________________________________________________________________________

@@ -1,0 +1,16 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+
+
+
+
+
+
+MenuItem{title='Spicy Pickled Shallots ', rating=0.0, calories=23, protein=1, fat=0, sodium=162, price=78}---2
+ 
+MenuItem{title='papanasi', rating=9.0, calories=2, protein=3, fat=4, sodium=5, price=32}---1
+ 
+
+Price: 110 lei;
+____________________________________________________________________________________________

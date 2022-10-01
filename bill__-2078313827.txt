@@ -1,0 +1,13 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---1
+ 
+CompositeProduct{menuItems=[MenuItem{title='Baked Shrimp Toasts ', rating=3.75, calories=45, protein=3, fat=1, sodium=140, price=70}---0
+, MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---0
+, MenuItem{title='Beef Stock ', rating=4.375, calories=24, protein=4, fat=1, sodium=87, price=26}---0
+, MenuItem{title='Country Ham and Cheddar Pretzel Bites with Jalapeño Mustard ', rating=4.375, calories=46, protein=1, fat=1, sodium=342, price=100}---0
+]} 
+
+Price: 392 lei;
+____________________________________________________________________________________________

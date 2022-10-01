@@ -1,0 +1,21 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+CompositeProduct{menuItems=[MenuItem{title='Yellow Squash and Bell Pepper Soup ', rating=4.375, calories=87, protein=3, fat=6, sodium=22, price=71}---0
+, MenuItem{title='Ripe Olive and Goat Cheese Toasts ', rating=4.375, calories=57, protein=3, fat=3, sodium=145, price=66}---0
+, MenuItem{title='Parmesan Thumbprint Cookies with Tomato-Tart Cherry Jam ', rating=4.375, calories=106, protein=3, fat=7, sodium=127, price=43}---0
+, MenuItem{title='Coconut Water and Lime Rickey ', rating=0.0, calories=27, protein=1, fat=0, sodium=139, price=43}---0
+]} 
+CompositeProduct{menuItems=[MenuItem{title='Aji Amarillo-Pineapple Salsa ', rating=4.375, calories=60, protein=1, fat=0, sodium=5, price=40}---0
+, MenuItem{title='Tomato and Tomatillo Gazpacho ', rating=4.375, calories=80, protein=2, fat=5, sodium=10, price=24}---0
+, MenuItem{title='Cantaloupe Basil Salsa ', rating=3.75, calories=93, protein=2, fat=1, sodium=188, price=56}---0
+, MenuItem{title='Confetti Vegetable Slaw ', rating=3.125, calories=97, protein=1, fat=9, sodium=15, price=54}---0
+]} 
+
+MenuItem{title='Master Stock Chicken ', rating=3.75, calories=25, protein=2, fat=1, sodium=61, price=72}---1
+ 
+MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---1
+ 
+
+Price: 397 lei;
+____________________________________________________________________________________________

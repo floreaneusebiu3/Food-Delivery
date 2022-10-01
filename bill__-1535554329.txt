@@ -1,0 +1,43 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+MenuItem{title='Quatre-Épices ', rating=5.0, calories=25, protein=1, fat=0, sodium=2, price=81}---2
+ 
+CompositeProduct{menuItems=[MenuItem{title='Zinfandel-Glazed Shallots ', rating=4.375, calories=82, protein=2, fat=1, sodium=8, price=39}---0
+, MenuItem{title='Aji Amarillo-Pineapple Salsa ', rating=4.375, calories=60, protein=1, fat=0, sodium=5, price=40}---0
+, MenuItem{title='Seafood Canapes with Lemon-Chive Butter ', rating=5.0, calories=50, protein=2, fat=2, sodium=84, price=32}---0
+, MenuItem{title='Plain Hamburgers ', rating=4.375, calories=100, protein=11, fat=6, sodium=37, price=40}---0
+]} 
+
+MenuItem{title='Fish Stock ', rating=5.0, calories=25, protein=4, fat=1, sodium=124, price=27}---3
+ 
+
+MenuItem{title='Red Pepper Sauce ', rating=4.375, calories=24, protein=1, fat=0, sodium=253, price=62}---1
+ 
+MenuItem{title='Fish Stock ', rating=5.0, calories=25, protein=4, fat=1, sodium=124, price=27}---1
+ 
+
+CompositeProduct{menuItems=[MenuItem{title='Chile Lime Tuiles ', rating=3.75, calories=52, protein=0, fat=2, sodium=5, price=49}---0
+, MenuItem{title='Cucumbers and Dill in Horseradish Cream ', rating=3.75, calories=96, protein=2, fat=8, sodium=359, price=29}---0
+, MenuItem{title='Crisp Wild Rice Griddlecakes with Golden Caviar and Sour Cream ', rating=3.75, calories=33, protein=1, fat=2, sodium=6, price=65}---0
+, MenuItem{title='Blue Cheese Coleslaw ', rating=2.5, calories=101, protein=5, fat=4, sodium=193, price=94}---0
+]} 
+CompositeProduct{menuItems=[MenuItem{title='Assorted Vegetables ', rating=0.0, calories=102, protein=5, fat=2, sodium=30, price=89}---0
+, MenuItem{title='Prosciutto-Wrapped Asparagus with Mint Dressing ', rating=4.375, calories=80, protein=7, fat=4, sodium=544, price=45}---0
+, MenuItem{title='Tomato-Water Bloody Mary ', rating=5.0, calories=94, protein=3, fat=1, sodium=49, price=21}---0
+, MenuItem{title='Brandade de Morue Canapes ', rating=3.75, calories=48, protein=3, fat=3, sodium=267, price=100}---0
+]} 
+
+MenuItem{title='Toasted Corn Crisps ', rating=2.5, calories=24, protein=0, fat=2, sodium=37, price=66}---1
+ 
+
+
+
+
+MenuItem{title='Tomato Salsa ', rating=0.0, calories=27, protein=1, fat=0, sodium=168, price=42}---1
+ 
+MenuItem{title='Baby Bellini ', rating=0.0, calories=33, protein=0, fat=0, sodium=2, price=91}---1
+ 
+
+Price: 232 lei;
+____________________________________________________________________________________________

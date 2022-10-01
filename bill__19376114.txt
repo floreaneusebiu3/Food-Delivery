@@ -1,0 +1,19 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+
+
+
+MenuItem{title='Classic Salad ', rating=4.375, calories=24, protein=2, fat=1, sodium=56, price=49}---1
+ 
+MenuItem{title='Tomato Salsa ', rating=0.0, calories=27, protein=1, fat=0, sodium=168, price=42}---2
+ 
+MenuItem{title='Baby Bellini ', rating=0.0, calories=33, protein=0, fat=0, sodium=2, price=91}---2
+ 
+
+
+
+
+
+Price: 182 lei;
+____________________________________________________________________________________________

@@ -1,0 +1,10 @@
+____________________________________________________________________________________________
+                            BILL: 
+
+MenuItem{title='Master Stock Chicken ', rating=3.75, calories=25, protein=2, fat=1, sodium=61, price=72}---1
+ 
+MenuItem{title='Chipotle Tomato Salsa ', rating=5.0, calories=26, protein=1, fat=0, sodium=40, price=98}---1
+ 
+
+Price: 170 lei;
+____________________________________________________________________________________________
